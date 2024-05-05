@@ -1,5 +1,7 @@
 # OpenCV-test
 # 学而思，机电软算，CDIO
+# 目前是opencv-python,主要关心算法，如果后续关注实现，考虑安装opencv-c++版本，以及跟树莓派结合起来使用。
+
 
 环境搭建
 conda create -n OpenCV-test
