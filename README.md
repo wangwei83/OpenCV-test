@@ -1,4 +1,5 @@
 # OpenCV-test
+# 学而思，机电软算，CDIO
 
 环境搭建
 conda create -n OpenCV-test
@@ -21,3 +22,4 @@ conda install conda-forge::opencv
 pip install opencv-python
 
 conda install scikit-learn
+
